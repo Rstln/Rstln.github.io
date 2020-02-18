@@ -1,4 +1,4 @@
 # Hello world!
 
-![Image description](image/Figure1.png)
+![Image description](images/Figure1.png)
 
